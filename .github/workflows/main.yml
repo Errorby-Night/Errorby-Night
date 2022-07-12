@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
           template: classic
           base: repositories
 #           base: header, activity, community
