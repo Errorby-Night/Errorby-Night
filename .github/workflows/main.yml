@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: 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
+          token: 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
           template: classic
           base: repositories
 #           base: header, activity, community
