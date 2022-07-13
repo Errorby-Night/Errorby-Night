@@ -24,8 +24,6 @@ jobs:
           plugin_isocalendar_duration: half-year
   waka-time:
     runs-on: ubntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: anmol98/waka-readme-stats@master
         with:
