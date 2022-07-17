@@ -2,7 +2,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@963352cb-0559-4894-ac6b-c834a438e01c/c3ca839f-79f8-4c5e-84f1-0c0a9ab0b2eb.png" width="400" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@963352cb-0559-4894-ac6b-c834a438e01c/c3ca839f-79f8-4c5e-84f1-0c0a9ab0b2eb.png" width="350" /></a>
 
 ![Srijan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Errorby-Night&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true)
 
