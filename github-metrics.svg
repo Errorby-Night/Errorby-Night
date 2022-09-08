@@ -93,11 +93,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.10096180168998" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="156.10096180168998" y="0" width="112.92427864873251" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="269.02524045042253" y="0" width="93.53129049331119" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="362.55653094373366" y="0" width="93.42215246473089" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.9786834084646" y="0" width="4.021316591535415" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.6917924167683" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="155.6917924167683" y="0" width="112.62828330633272" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="268.320075723101" y="0" width="94.49187250850974" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="362.81194823161076" y="0" width="93.17727578863061" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.98922402024135" y="0" width="4.010775979758632" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1379,7 +1379,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.04620123203286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803559 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1707,7 +1707,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
