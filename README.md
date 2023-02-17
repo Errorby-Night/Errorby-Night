@@ -1,7 +1,7 @@
 <img src="data/1029f1caabc8487eb2f6b0f429eadb26.png" width="180">
  
 <!-- (![Profile views counter](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen&style=plastic) -->
-![](https://komarev.com/ghpvc/?username=errorby-night)
+![](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen)
 
 ![Metrics](/github-metrics.svg)
 
