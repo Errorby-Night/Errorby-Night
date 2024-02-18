@@ -2,6 +2,7 @@
  
 <!-- (![Profile views counter](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen&style=plastic) -->
 ![](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/963352cb-0559-4894-ac6b-c834a438e01c.svg)](https://wakatime.com/@963352cb-0559-4894-ac6b-c834a438e01c)
 
 ![Metrics](/github-metrics.svg)
 
@@ -12,7 +13,7 @@
 * Learning: Django
 * Learning Mobile Application Development
 * Learning Full Stack
-* Solving DSA questions on LeetCode💻
+* Solving DSA questions on LeetCode
 
 
 ### 🌱 Challenges that I’m currently challenging myself:
