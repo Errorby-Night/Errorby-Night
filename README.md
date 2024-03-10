@@ -10,7 +10,7 @@
 
 <!-- ![Srijan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Errorby-Night&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true) -->
 ### 💼  Things that I'm currently working on: 
-* Learning: Django
+* Learning: Go Lang
 * Learning Mobile Application Development
 * Learning Full Stack
 * Solving DSA questions on LeetCode
