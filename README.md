@@ -9,19 +9,7 @@
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@963352cb-0559-4894-ac6b-c834a438e01c/c3ca839f-79f8-4c5e-84f1-0c0a9ab0b2eb.png" width="350" /></a> -->
 
 <!-- ![Srijan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Errorby-Night&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=true&hide_border=true) -->
-### 💼  Things that I'm currently working on: 
-* Learning: Go Lang
-* Learning Mobile Application Development
-* Learning Full Stack
-* Solving DSA questions on LeetCode
 
-
-### 🌱 Challenges that I’m currently challenging myself:
-* Solving DSA, 1-2 hours a day with no distraction ( One or two day off a week. ) 
-* Read Dev and UI articles daily 
-* Workout a reasonable amount of time
-* Avoid spending too much time on Movies and such
-* Adapting the minimalistic life style
 
 
 <h3 align="left">Languages and Tools:</h3>
