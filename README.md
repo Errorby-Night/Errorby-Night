@@ -3,7 +3,7 @@
 <!-- (![Profile views counter](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen&style=plastic) -->
 ![](https://komarev.com/ghpvc/?username=errorby-night&color=brightgreen)
 [![wakatime](https://wakatime.com/badge/user/963352cb-0559-4894-ac6b-c834a438e01c.svg)](https://wakatime.com/@963352cb-0559-4894-ac6b-c834a438e01c)
-
+<img align="right" width="300px" alt="moto" src="https://i.imgur.com/sREDmpJ.gif"/>
 ![Metrics](/github-metrics.svg)
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@963352cb-0559-4894-ac6b-c834a438e01c/c3ca839f-79f8-4c5e-84f1-0c0a9ab0b2eb.png" width="350" /></a> -->
